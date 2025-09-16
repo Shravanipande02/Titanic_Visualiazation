@@ -23,22 +23,28 @@ Visualizations
 Below are screenshots of the visualizations generated to explore the data.
 
 Distribution of Age
-Screenshot 2025-09-16 221201.png
+<img width="1074" height="626" alt="image" src="https://github.com/user-attachments/assets/a16d752b-f742-40a6-a3a0-7833eb0b66d4" />
+
 
 Number of Survivors and Non-Survivors
-image.png
+
+<img width="1085" height="620" alt="image" src="https://github.com/user-attachments/assets/4568ae68-c8ca-45d5-bfbb-4b32c92591aa" />
 
 Survival Rate by Passenger Class
-image.png
+<img width="1190" height="629" alt="image" src="https://github.com/user-attachments/assets/400aa656-45c0-45f1-bf00-7ec19d611794" />
+
 
 Age Distribution by Survival
-image.png
+<img width="1081" height="648" alt="image" src="https://github.com/user-attachments/assets/195e8951-dcfd-41a7-9ba0-df132356345c" />
+
 
 Fare Distribution by Survival
-image.png
+<img width="990" height="590" alt="Screenshot 2025-09-16 223222" src="https://github.com/user-attachments/assets/ea08ea61-035b-4229-aaee-17ee463cc5d5" />
+
 
 Correlation Matrix of Numerical Features
-image.png
+<img width="1067" height="873" alt="Screenshot 2025-09-16 223446" src="https://github.com/user-attachments/assets/02afef0b-c61c-4bb2-a766-5870a219cb52" />
+
 
 Insights from Visualizations
 Based on the analysis of the visualizations, the following key insights were found:

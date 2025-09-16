@@ -4,23 +4,22 @@ Titanic Survival Analysis
 Dataset Description
 This project analyzes the Titanic dataset to explore the factors that influenced passenger survival during the disaster. The dataset contains various features for each passenger, including:
 
-survived: Survival status (0 = No, 1 = Yes);
-pclass: Passenger class (1st, 2nd, 3rd)
-sex: Sex of the passenger
-age: Age in years
-sibsp: Number of siblings/spouses aboard
-parch: Number of parents/children aboard
-fare: The fare paid
-embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
-class: Passenger class (categorical)
-who: Man, woman, or child
-adult_male: Whether the passenger is an adult male
-deck: Deck the passenger was on
-embark_town: Port of embarkation (full name)
-alive: Survival status (yes or no)
-alone: Whether the passenger was alone
-Visualizations
-Below are screenshots of the visualizations generated to explore the data.
+**survived**: Survival status (0 = No, 1 = Yes)  
+**pclass**: Passenger class (1st, 2nd, 3rd)  
+**sex**: Sex of the passenger  
+**age**: Age in years  
+**sibsp**: Number of siblings/spouses aboard  
+**parch**: Number of parents/children aboard  
+**fare**: The fare paid  
+**embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)  
+**class**: Passenger class (categorical)  
+**who**: Man, woman, or child  
+**adult_male**: Whether the passenger is an adult male  
+**deck**: Deck the passenger was on  
+**embark_town**: Port of embarkation (full name)  
+**alive**: Survival status (yes or no)  
+**alone**: Whether the passenger was alone  
+
 
 Distribution of Age
 <img width="1074" height="626" alt="image" src="https://github.com/user-attachments/assets/a16d752b-f742-40a6-a3a0-7833eb0b66d4" />

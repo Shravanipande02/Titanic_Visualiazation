@@ -45,7 +45,6 @@ Fare Distribution by Survival
 Correlation Matrix of Numerical Features
 <img width="1067" height="873" alt="Screenshot 2025-09-16 223446" src="https://github.com/user-attachments/assets/02afef0b-c61c-4bb2-a766-5870a219cb52" />
 
-
 Insights from the visualizations:
 ------------------------------
 

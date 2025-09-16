@@ -4,7 +4,7 @@ Titanic Survival Analysis
 Dataset Description
 This project analyzes the Titanic dataset to explore the factors that influenced passenger survival during the disaster. The dataset contains various features for each passenger, including:
 
-survived: Survival status (0 = No, 1 = Yes)
+survived: Survival status (0 = No, 1 = Yes);
 pclass: Passenger class (1st, 2nd, 3rd)
 sex: Sex of the passenger
 age: Age in years
